@@ -1,6 +1,6 @@
 # Key-Points Matching in NLP
 
-Argument mining is a recent and developing field of research in natural lan- guage processing. Essentially, argument mining involves automatically identifying argument structures in free text, such as the argument’s conclusion, premises, and reasoning scheme, as well as their interrelationships and counter-considerations.
+Argument mining is a recent and developing field of research in natural language processing. Essentially, argument mining involves automatically identifying argument structures in free text, such as the argument’s conclusion, premises, and reasoning scheme, as well as their interrelationships and counter-considerations.
 
 One of the task that composes argument mining’s pipeline is key-point matching: given a sentence (typically an argument) and a key-point, determine whether the latter matches the proposed sentence.
 
